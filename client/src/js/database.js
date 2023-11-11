@@ -84,3 +84,4 @@ export const deleteDb = async (id) => {
 
 // Start the database.
 initdb();
+
